@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/bin/Debug/net8.0/19ExtractPalindromes
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/bin/Debug/net8.0/19ExtractPalindromes.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/bin/Debug/net8.0/19ExtractPalindromes.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/bin/Debug/net8.0/19ExtractPalindromes.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/bin/Debug/net8.0/19ExtractPalindromes.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/obj/Debug/net8.0/19ExtractPalindromes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/obj/Debug/net8.0/19ExtractPalindromes.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/obj/Debug/net8.0/19ExtractPalindromes.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/obj/Debug/net8.0/19ExtractPalindromes.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/obj/Debug/net8.0/19ExtractPalindromes.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/obj/Debug/net8.0/refint/19ExtractPalindromes.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/obj/Debug/net8.0/19ExtractPalindromes.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/obj/Debug/net8.0/19ExtractPalindromes.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/19ExtractPalindromes/obj/Debug/net8.0/ref/19ExtractPalindromes.dll

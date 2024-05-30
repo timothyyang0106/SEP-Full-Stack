@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/bin/Debug/net8.0/05WhatHappens
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/bin/Debug/net8.0/05WhatHappens.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/bin/Debug/net8.0/05WhatHappens.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/bin/Debug/net8.0/05WhatHappens.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/bin/Debug/net8.0/05WhatHappens.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/obj/Debug/net8.0/05WhatHappens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/obj/Debug/net8.0/05WhatHappens.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/obj/Debug/net8.0/05WhatHappens.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/obj/Debug/net8.0/05WhatHappens.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/obj/Debug/net8.0/05WhatHappens.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/obj/Debug/net8.0/refint/05WhatHappens.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/obj/Debug/net8.0/05WhatHappens.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/obj/Debug/net8.0/05WhatHappens.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/05WhatHappens/obj/Debug/net8.0/ref/05WhatHappens.dll

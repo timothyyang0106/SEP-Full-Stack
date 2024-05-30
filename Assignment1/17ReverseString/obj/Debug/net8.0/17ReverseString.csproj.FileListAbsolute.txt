@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/bin/Debug/net8.0/17ReverseString
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/bin/Debug/net8.0/17ReverseString.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/bin/Debug/net8.0/17ReverseString.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/bin/Debug/net8.0/17ReverseString.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/bin/Debug/net8.0/17ReverseString.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/obj/Debug/net8.0/17ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/obj/Debug/net8.0/17ReverseString.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/obj/Debug/net8.0/17ReverseString.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/obj/Debug/net8.0/17ReverseString.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/obj/Debug/net8.0/17ReverseString.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/obj/Debug/net8.0/refint/17ReverseString.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/obj/Debug/net8.0/17ReverseString.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/obj/Debug/net8.0/17ReverseString.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/17ReverseString/obj/Debug/net8.0/ref/17ReverseString.dll

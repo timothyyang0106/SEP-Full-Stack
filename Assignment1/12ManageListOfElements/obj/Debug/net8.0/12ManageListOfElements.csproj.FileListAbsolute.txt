@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/bin/Debug/net8.0/12ManageListOfElements
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/bin/Debug/net8.0/12ManageListOfElements.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/bin/Debug/net8.0/12ManageListOfElements.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/bin/Debug/net8.0/12ManageListOfElements.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/bin/Debug/net8.0/12ManageListOfElements.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/obj/Debug/net8.0/12ManageListOfElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/obj/Debug/net8.0/12ManageListOfElements.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/obj/Debug/net8.0/12ManageListOfElements.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/obj/Debug/net8.0/12ManageListOfElements.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/obj/Debug/net8.0/12ManageListOfElements.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/obj/Debug/net8.0/refint/12ManageListOfElements.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/obj/Debug/net8.0/12ManageListOfElements.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/obj/Debug/net8.0/12ManageListOfElements.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/12ManageListOfElements/obj/Debug/net8.0/ref/12ManageListOfElements.dll

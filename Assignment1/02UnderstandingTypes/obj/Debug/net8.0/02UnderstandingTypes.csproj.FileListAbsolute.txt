@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/obj/Debug/net8.0/refint/02UnderstandingTypes.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/02UnderstandingTypes/obj/Debug/net8.0/ref/02UnderstandingTypes.dll

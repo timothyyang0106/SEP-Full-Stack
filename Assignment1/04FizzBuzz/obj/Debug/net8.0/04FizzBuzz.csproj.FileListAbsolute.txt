@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/bin/Debug/net8.0/04FizzBuzz
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/bin/Debug/net8.0/04FizzBuzz.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/bin/Debug/net8.0/04FizzBuzz.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/bin/Debug/net8.0/04FizzBuzz.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/bin/Debug/net8.0/04FizzBuzz.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/obj/Debug/net8.0/04FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/obj/Debug/net8.0/04FizzBuzz.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/obj/Debug/net8.0/04FizzBuzz.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/obj/Debug/net8.0/04FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/obj/Debug/net8.0/04FizzBuzz.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/obj/Debug/net8.0/refint/04FizzBuzz.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/obj/Debug/net8.0/04FizzBuzz.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/obj/Debug/net8.0/04FizzBuzz.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/04FizzBuzz/obj/Debug/net8.0/ref/04FizzBuzz.dll

@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/bin/Debug/net8.0/06GuessingGame
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/bin/Debug/net8.0/06GuessingGame.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/bin/Debug/net8.0/06GuessingGame.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/bin/Debug/net8.0/06GuessingGame.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/bin/Debug/net8.0/06GuessingGame.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/obj/Debug/net8.0/06GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/obj/Debug/net8.0/06GuessingGame.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/obj/Debug/net8.0/06GuessingGame.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/obj/Debug/net8.0/06GuessingGame.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/obj/Debug/net8.0/06GuessingGame.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/obj/Debug/net8.0/refint/06GuessingGame.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/obj/Debug/net8.0/06GuessingGame.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/obj/Debug/net8.0/06GuessingGame.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/06GuessingGame/obj/Debug/net8.0/ref/06GuessingGame.dll

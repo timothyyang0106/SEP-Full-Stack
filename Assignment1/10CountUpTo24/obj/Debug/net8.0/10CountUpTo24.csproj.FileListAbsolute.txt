@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/bin/Debug/net8.0/10CountUpTo24
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/bin/Debug/net8.0/10CountUpTo24.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/bin/Debug/net8.0/10CountUpTo24.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/bin/Debug/net8.0/10CountUpTo24.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/bin/Debug/net8.0/10CountUpTo24.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/obj/Debug/net8.0/10CountUpTo24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/obj/Debug/net8.0/10CountUpTo24.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/obj/Debug/net8.0/10CountUpTo24.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/obj/Debug/net8.0/10CountUpTo24.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/obj/Debug/net8.0/10CountUpTo24.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/obj/Debug/net8.0/refint/10CountUpTo24.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/obj/Debug/net8.0/10CountUpTo24.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/obj/Debug/net8.0/10CountUpTo24.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/10CountUpTo24/obj/Debug/net8.0/ref/10CountUpTo24.dll

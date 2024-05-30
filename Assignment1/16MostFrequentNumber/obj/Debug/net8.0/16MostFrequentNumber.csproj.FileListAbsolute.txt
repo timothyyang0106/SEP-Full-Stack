@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/bin/Debug/net8.0/16MostFrequentNumber
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/bin/Debug/net8.0/16MostFrequentNumber.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/bin/Debug/net8.0/16MostFrequentNumber.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/bin/Debug/net8.0/16MostFrequentNumber.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/bin/Debug/net8.0/16MostFrequentNumber.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/obj/Debug/net8.0/16MostFrequentNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/obj/Debug/net8.0/16MostFrequentNumber.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/obj/Debug/net8.0/16MostFrequentNumber.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/obj/Debug/net8.0/16MostFrequentNumber.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/obj/Debug/net8.0/16MostFrequentNumber.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/obj/Debug/net8.0/refint/16MostFrequentNumber.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/obj/Debug/net8.0/16MostFrequentNumber.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/obj/Debug/net8.0/16MostFrequentNumber.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/16MostFrequentNumber/obj/Debug/net8.0/ref/16MostFrequentNumber.dll

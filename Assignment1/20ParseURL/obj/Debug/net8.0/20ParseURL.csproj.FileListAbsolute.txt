@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/bin/Debug/net8.0/20ParseURL
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/bin/Debug/net8.0/20ParseURL.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/bin/Debug/net8.0/20ParseURL.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/bin/Debug/net8.0/20ParseURL.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/bin/Debug/net8.0/20ParseURL.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/obj/Debug/net8.0/20ParseURL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/obj/Debug/net8.0/20ParseURL.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/obj/Debug/net8.0/20ParseURL.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/obj/Debug/net8.0/20ParseURL.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/obj/Debug/net8.0/20ParseURL.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/obj/Debug/net8.0/refint/20ParseURL.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/obj/Debug/net8.0/20ParseURL.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/obj/Debug/net8.0/20ParseURL.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/20ParseURL/obj/Debug/net8.0/ref/20ParseURL.dll

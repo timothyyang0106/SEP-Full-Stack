@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/bin/Debug/net8.0/07PrintaPyramid
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/bin/Debug/net8.0/07PrintaPyramid.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/bin/Debug/net8.0/07PrintaPyramid.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/bin/Debug/net8.0/07PrintaPyramid.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/bin/Debug/net8.0/07PrintaPyramid.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/obj/Debug/net8.0/07PrintaPyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/obj/Debug/net8.0/07PrintaPyramid.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/obj/Debug/net8.0/07PrintaPyramid.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/obj/Debug/net8.0/07PrintaPyramid.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/obj/Debug/net8.0/07PrintaPyramid.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/obj/Debug/net8.0/refint/07PrintaPyramid.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/obj/Debug/net8.0/07PrintaPyramid.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/obj/Debug/net8.0/07PrintaPyramid.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/07PrintaPyramid/obj/Debug/net8.0/ref/07PrintaPyramid.dll

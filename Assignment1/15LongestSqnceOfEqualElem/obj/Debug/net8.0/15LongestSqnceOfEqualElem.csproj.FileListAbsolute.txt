@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/bin/Debug/net8.0/15LongestSqnceOfEqualElem
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/bin/Debug/net8.0/15LongestSqnceOfEqualElem.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/bin/Debug/net8.0/15LongestSqnceOfEqualElem.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/bin/Debug/net8.0/15LongestSqnceOfEqualElem.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/bin/Debug/net8.0/15LongestSqnceOfEqualElem.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/obj/Debug/net8.0/15LongestSqnceOfEqualElem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/obj/Debug/net8.0/15LongestSqnceOfEqualElem.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/obj/Debug/net8.0/15LongestSqnceOfEqualElem.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/obj/Debug/net8.0/15LongestSqnceOfEqualElem.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/obj/Debug/net8.0/15LongestSqnceOfEqualElem.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/obj/Debug/net8.0/refint/15LongestSqnceOfEqualElem.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/obj/Debug/net8.0/15LongestSqnceOfEqualElem.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/obj/Debug/net8.0/15LongestSqnceOfEqualElem.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/15LongestSqnceOfEqualElem/obj/Debug/net8.0/ref/15LongestSqnceOfEqualElem.dll

@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/bin/Debug/net8.0/18ReverseWordInSqnce
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/bin/Debug/net8.0/18ReverseWordInSqnce.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/bin/Debug/net8.0/18ReverseWordInSqnce.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/bin/Debug/net8.0/18ReverseWordInSqnce.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/bin/Debug/net8.0/18ReverseWordInSqnce.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/obj/Debug/net8.0/18ReverseWordInSqnce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/obj/Debug/net8.0/18ReverseWordInSqnce.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/obj/Debug/net8.0/18ReverseWordInSqnce.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/obj/Debug/net8.0/18ReverseWordInSqnce.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/obj/Debug/net8.0/18ReverseWordInSqnce.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/obj/Debug/net8.0/refint/18ReverseWordInSqnce.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/obj/Debug/net8.0/18ReverseWordInSqnce.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/obj/Debug/net8.0/18ReverseWordInSqnce.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/18ReverseWordInSqnce/obj/Debug/net8.0/ref/18ReverseWordInSqnce.dll

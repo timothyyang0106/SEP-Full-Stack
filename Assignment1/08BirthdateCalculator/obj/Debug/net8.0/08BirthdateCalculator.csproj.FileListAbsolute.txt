@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/bin/Debug/net8.0/08BirthdateCalculator
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/bin/Debug/net8.0/08BirthdateCalculator.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/bin/Debug/net8.0/08BirthdateCalculator.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/bin/Debug/net8.0/08BirthdateCalculator.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/bin/Debug/net8.0/08BirthdateCalculator.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/obj/Debug/net8.0/08BirthdateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/obj/Debug/net8.0/08BirthdateCalculator.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/obj/Debug/net8.0/08BirthdateCalculator.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/obj/Debug/net8.0/08BirthdateCalculator.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/obj/Debug/net8.0/08BirthdateCalculator.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/obj/Debug/net8.0/refint/08BirthdateCalculator.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/obj/Debug/net8.0/08BirthdateCalculator.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/obj/Debug/net8.0/08BirthdateCalculator.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/08BirthdateCalculator/obj/Debug/net8.0/ref/08BirthdateCalculator.dll

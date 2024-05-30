@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/bin/Debug/net8.0/09AppropriateGreeting
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/bin/Debug/net8.0/09AppropriateGreeting.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/bin/Debug/net8.0/09AppropriateGreeting.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/bin/Debug/net8.0/09AppropriateGreeting.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/bin/Debug/net8.0/09AppropriateGreeting.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/obj/Debug/net8.0/09AppropriateGreeting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/obj/Debug/net8.0/09AppropriateGreeting.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/obj/Debug/net8.0/09AppropriateGreeting.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/obj/Debug/net8.0/09AppropriateGreeting.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/obj/Debug/net8.0/09AppropriateGreeting.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/obj/Debug/net8.0/refint/09AppropriateGreeting.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/obj/Debug/net8.0/09AppropriateGreeting.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/obj/Debug/net8.0/09AppropriateGreeting.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/09AppropriateGreeting/obj/Debug/net8.0/ref/09AppropriateGreeting.dll

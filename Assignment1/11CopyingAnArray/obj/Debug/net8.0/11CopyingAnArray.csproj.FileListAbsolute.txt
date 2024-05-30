@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/bin/Debug/net8.0/11CopyingAnArray
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/bin/Debug/net8.0/11CopyingAnArray.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/bin/Debug/net8.0/11CopyingAnArray.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/bin/Debug/net8.0/11CopyingAnArray.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/bin/Debug/net8.0/11CopyingAnArray.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/obj/Debug/net8.0/11CopyingAnArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/obj/Debug/net8.0/11CopyingAnArray.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/obj/Debug/net8.0/11CopyingAnArray.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/obj/Debug/net8.0/11CopyingAnArray.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/obj/Debug/net8.0/11CopyingAnArray.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/obj/Debug/net8.0/refint/11CopyingAnArray.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/obj/Debug/net8.0/11CopyingAnArray.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/obj/Debug/net8.0/11CopyingAnArray.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/11CopyingAnArray/obj/Debug/net8.0/ref/11CopyingAnArray.dll

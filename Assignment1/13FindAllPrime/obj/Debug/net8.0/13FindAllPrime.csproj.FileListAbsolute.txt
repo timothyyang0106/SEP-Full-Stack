@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/bin/Debug/net8.0/13FindAllPrime
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/bin/Debug/net8.0/13FindAllPrime.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/bin/Debug/net8.0/13FindAllPrime.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/bin/Debug/net8.0/13FindAllPrime.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/bin/Debug/net8.0/13FindAllPrime.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/obj/Debug/net8.0/13FindAllPrime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/obj/Debug/net8.0/13FindAllPrime.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/obj/Debug/net8.0/13FindAllPrime.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/obj/Debug/net8.0/13FindAllPrime.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/obj/Debug/net8.0/13FindAllPrime.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/obj/Debug/net8.0/refint/13FindAllPrime.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/obj/Debug/net8.0/13FindAllPrime.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/obj/Debug/net8.0/13FindAllPrime.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/13FindAllPrime/obj/Debug/net8.0/ref/13FindAllPrime.dll

@@ -1,0 +1,14 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/bin/Debug/net8.0/03ConvertCentury
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/bin/Debug/net8.0/03ConvertCentury.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/bin/Debug/net8.0/03ConvertCentury.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/bin/Debug/net8.0/03ConvertCentury.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/bin/Debug/net8.0/03ConvertCentury.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/obj/Debug/net8.0/03ConvertCentury.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/obj/Debug/net8.0/03ConvertCentury.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/obj/Debug/net8.0/03ConvertCentury.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/obj/Debug/net8.0/03ConvertCentury.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/obj/Debug/net8.0/03ConvertCentury.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/obj/Debug/net8.0/refint/03ConvertCentury.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/obj/Debug/net8.0/03ConvertCentury.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/obj/Debug/net8.0/03ConvertCentury.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment1/03ConvertCentury/obj/Debug/net8.0/ref/03ConvertCentury.dll

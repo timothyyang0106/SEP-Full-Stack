@@ -1,0 +1,15 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/bin/Debug/net8.0/04ColorAndBalls
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/bin/Debug/net8.0/04ColorAndBalls.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/bin/Debug/net8.0/04ColorAndBalls.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/bin/Debug/net8.0/04ColorAndBalls.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/bin/Debug/net8.0/04ColorAndBalls.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/obj/Debug/net8.0/04ColorAndBalls.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/obj/Debug/net8.0/04ColorAndBalls.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/obj/Debug/net8.0/04ColorAndBalls.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/obj/Debug/net8.0/04ColorAndBalls.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/obj/Debug/net8.0/04ColorAndBalls.sourcelink.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/obj/Debug/net8.0/04ColorAndBalls.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/obj/Debug/net8.0/refint/04ColorAndBalls.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/obj/Debug/net8.0/04ColorAndBalls.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/obj/Debug/net8.0/04ColorAndBalls.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/04ColorAndBalls/obj/Debug/net8.0/ref/04ColorAndBalls.dll

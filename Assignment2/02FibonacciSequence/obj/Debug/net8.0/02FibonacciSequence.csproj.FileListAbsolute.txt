@@ -1,0 +1,15 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/bin/Debug/net8.0/02FibonacciSequence
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/bin/Debug/net8.0/02FibonacciSequence.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/bin/Debug/net8.0/02FibonacciSequence.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/bin/Debug/net8.0/02FibonacciSequence.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/bin/Debug/net8.0/02FibonacciSequence.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/obj/Debug/net8.0/02FibonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/obj/Debug/net8.0/02FibonacciSequence.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/obj/Debug/net8.0/02FibonacciSequence.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/obj/Debug/net8.0/02FibonacciSequence.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/obj/Debug/net8.0/02FibonacciSequence.sourcelink.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/obj/Debug/net8.0/02FibonacciSequence.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/obj/Debug/net8.0/refint/02FibonacciSequence.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/obj/Debug/net8.0/02FibonacciSequence.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/obj/Debug/net8.0/02FibonacciSequence.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment2/02FibonacciSequence/obj/Debug/net8.0/ref/02FibonacciSequence.dll

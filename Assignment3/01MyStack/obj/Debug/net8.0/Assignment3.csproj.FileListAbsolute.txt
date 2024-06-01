@@ -1,0 +1,15 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/obj/Debug/net8.0/Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/obj/Debug/net8.0/Assignment3.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/obj/Debug/net8.0/Assignment3.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/obj/Debug/net8.0/Assignment3.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/obj/Debug/net8.0/Assignment3.sourcelink.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/bin/Debug/net8.0/Assignment3
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/bin/Debug/net8.0/Assignment3.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/bin/Debug/net8.0/Assignment3.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/bin/Debug/net8.0/Assignment3.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/bin/Debug/net8.0/Assignment3.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/obj/Debug/net8.0/Assignment3.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/obj/Debug/net8.0/refint/Assignment3.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/obj/Debug/net8.0/Assignment3.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/obj/Debug/net8.0/Assignment3.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/01MyStack/obj/Debug/net8.0/ref/Assignment3.dll

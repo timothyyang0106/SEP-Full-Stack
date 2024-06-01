@@ -1,0 +1,15 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/bin/Debug/net8.0/03GenericRepository
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/bin/Debug/net8.0/03GenericRepository.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/bin/Debug/net8.0/03GenericRepository.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/bin/Debug/net8.0/03GenericRepository.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/bin/Debug/net8.0/03GenericRepository.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/obj/Debug/net8.0/03GenericRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/obj/Debug/net8.0/03GenericRepository.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/obj/Debug/net8.0/03GenericRepository.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/obj/Debug/net8.0/03GenericRepository.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/obj/Debug/net8.0/03GenericRepository.sourcelink.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/obj/Debug/net8.0/03GenericRepository.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/obj/Debug/net8.0/refint/03GenericRepository.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/obj/Debug/net8.0/03GenericRepository.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/obj/Debug/net8.0/03GenericRepository.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/03GenericRepository/obj/Debug/net8.0/ref/03GenericRepository.dll

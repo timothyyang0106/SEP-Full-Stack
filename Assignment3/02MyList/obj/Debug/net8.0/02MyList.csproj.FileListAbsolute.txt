@@ -1,0 +1,15 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/bin/Debug/net8.0/02MyList
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/bin/Debug/net8.0/02MyList.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/bin/Debug/net8.0/02MyList.runtimeconfig.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/bin/Debug/net8.0/02MyList.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/bin/Debug/net8.0/02MyList.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/obj/Debug/net8.0/02MyList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/obj/Debug/net8.0/02MyList.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/obj/Debug/net8.0/02MyList.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/obj/Debug/net8.0/02MyList.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/obj/Debug/net8.0/02MyList.sourcelink.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/obj/Debug/net8.0/02MyList.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/obj/Debug/net8.0/refint/02MyList.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/obj/Debug/net8.0/02MyList.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/obj/Debug/net8.0/02MyList.genruntimeconfig.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Assignment3/02MyList/obj/Debug/net8.0/ref/02MyList.dll

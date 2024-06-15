@@ -1,0 +1,147 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+.header-image {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+.header-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: bottom; /* Shift the image to show only the bottom part */
+}
+
+.header-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #f0f0f0;
+    text-align: left;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    padding: 15px 20px;
+    display: inline-block;
+    text-transform: uppercase; /* Capitalize all letters */
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.column {
+    padding: 0 10px;
+}
+
+.wide-column {
+    flex: 3;
+}
+
+.tight-column {
+    flex: 1;
+}
+
+section, aside {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.news {
+    background-color: #f5f5f5;
+}
+
+.welcome h1, .products h2, .news h2, .messages h2 {
+    color: #8ac400;
+    font-size: 1.5em; /* Increase the size of the titles */
+}
+
+.products article {
+    display: flex;
+    margin-bottom: 20px;
+    height: 250px; /* Set a fixed height for all product items */
+}
+
+.products img {
+    width: 333px; /* Set a width to maintain 4:3 aspect ratio with height */
+    height: 250px;
+    object-fit: cover; /* Ensure the image covers the entire height */
+    margin-right: 20px;
+}
+
+.product-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.product-info h3 {
+    margin-top: 0;
+}
+
+.news h2, .messages h2 {
+    text-transform: uppercase; /* Capitalize every letter in News and Messages */
+}
+
+.news ul, .messages ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.news ul li, .messages ul li {
+    margin-bottom: 20px;
+}
+
+.see-more {
+    color: #8ac400; /* Change see more color to #8ac400 */
+}
+
+footer {
+    background-color: #8ac400;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+.underline {
+    text-decoration: underline; /* Add underline to XHTML and CSS */
+}

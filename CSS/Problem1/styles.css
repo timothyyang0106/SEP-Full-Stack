@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.header {
+    background-color: #2e3d55;
+    color: white;
+    padding: 10px 20px;
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto 1fr;
+}
+.header a {
+    color: white;
+    text-decoration: none;
+}
+.logo {
+    grid-row: 1 / span 2;
+    grid-column: 1 / 2;
+    display: flex;
+    align-items: center;
+}
+.logo img {
+    height: 100px;
+}
+.top-bar {
+    grid-row: 1 / 2;
+    grid-column: 2 / 3;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+.menu-bar {
+    grid-row: 2 / 3;
+    grid-column: 2 / 3;
+}
+.search-container {
+    display: flex;
+    align-items: center;
+}
+.search-container input[type="text"] {
+    padding: 5px;
+    font-size: 16px;
+}
+.search-container button {
+    padding: 5px;
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.search-container button img {
+    width: 20px;
+}
+.right-items {
+    display: flex;
+    align-items: center;
+}
+.notification, .user {
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+}
+.notification img {
+    width: 24px;
+}
+.menu {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+.menu li {
+    position: relative;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+.menu li a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+.menu li:hover .dropdown {
+    display: block;
+}
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #2e3d55;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    min-width: 150px;
+    z-index: 1;
+}
+.dropdown li {
+    padding: 10px;
+}
+.dropdown li a {
+    display: block;
+    padding: 5px 10px;
+}
+.triangle {
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid white;
+    margin-left: 5px;
+}
+.dropdown-parent {
+    display: inline-flex;
+    align-items: center;
+}

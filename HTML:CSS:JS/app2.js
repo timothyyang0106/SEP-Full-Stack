@@ -128,3 +128,126 @@ resetButton.addEventListener("click", ()=> {
     document.getElementById("Password").value = "";
 });
 
+// Local storage
+
+localStorage.clear();
+
+localStorage.setItem('firstItem', 'Strawberry Pancake');
+console.log(localStorage.getItem('firstItem'));
+localStorage.removeItem('firstItem');
+console.log(localStorage);
+
+// session storage
+
+sessionStorage.clear();
+
+sessionStorage.setItem('firstItem', 'Chocolate Waffle');
+console.log(sessionStorage.getItem('firstItem'));
+let x = 'Super Secret User Info';
+sessionStorage.setItem('userInfo', btoa(x));
+// use btoa to encrypt, and atob to decrypt
+console.log(sessionStorage.getItem('userInfo'));
+let y = atob(sessionStorage.getItem('userInfo'));
+console.log(y);
+
+//Cookies
+document.cookie = "new_Sample_Cookie=This_is_our_cookie; expires=Thu 5 Sep 2024 12:00:00 UTC; path=/";
+console.log(document.cookie);
+
+//Get Current Date
+var currentDate = new Date();
+console.log(currentDate);
+
+//Add days to current Date and Time
+
+function addDays(date, days){
+    var result = new Date(date);
+    result.setDate(result.getDate() + days);
+    return result;
+}
+
+currentDate = addDays(currentDate, 7);
+console.log(currentDate);
+
+//XMLHTTPRequest Get Request
+var gReq = new XMLHttpRequest();
+gReq.addEventListener('load', reqListener);
+gReq.open("GET", "https://jsonplaceholder.typicode.com/posts");
+gReq.send();
+function reqListener(){
+    console.log(this.responseText);
+}
+
+//XMLHTTP Request Post Request
+var pReq = new XMLHttpRequest();
+pReq.addEventListener('load', reqListener);
+pReq.open("POST", "https://jsonplaceholder.typicode.come/posts");
+pReq.send("title=Example POST Request&Body=Antra.com&userID=100"); // the id is primary key of the table, it's automatically generated, will let sql server generate this on its own
+
+//FETCH API is the new way of doing this, and much simpler
+fetch("https://jsonplaceholder.typicode.come/posts/10") // default is get requests
+.then((response) => response.json()) // only executes if it succeeds, what we got would be response
+.then((json) => console.log(json)); // once that succeeds, it goes into this one, and we get the json file so we can output it
+
+//Fetch API POST Request
+var z = {title: "Example Post Request in Fetch", body: "Antra.com", userId: 55};
+fetch("https://jsonplaceholder.typicode.com/posts", {
+    method: 'POST',
+    body: JSON.stringify(z),
+    headers: {
+        'Content-type': 'application/json; charset=UTF-8'
+    },
+}).then((response) => response.json())
+.then((json) => console.log(json));
+
+// regular expression = for patttern matching
+// to validate input
+// like pw: need one lower case, 1 symbol, 1 number
+function ValidateEmail(){
+    var mailFormat = /^\w+([\.-]?w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+    var inputText = myForm.Email.value;
+    if (inputText.value.match(mailFormat)){
+        alert("Valid Email Address!");
+        document.myForm.Email.focus();
+        return true;
+    }
+    else {
+        alert("You have entered an invalid Email Address!");
+        document.myForm.Email.focus();
+        return false;
+    }
+}
+
+//regex101
+// (click)=validateEmail in the html thingy
+
+// promises
+// promise vs callback
+// asynchronus programming
+
+// callback hell - if u have enough callbacks chained to each other, the code grows exponentionally and makes it difficult to read
+// solution to that: promises
+
+// promises are very common for client interviews
+// do readings over tonight, the weekend, etc
+// some questions to ask about promises:
+// there's a big document that would be given later
+
+
+let promise = new Promise(function (resolve, reject){
+    fetch("https://jsonplaceholder.typicode.com/posts/10")
+    .then((resolve) => {if (response.ok){
+        resolve();
+    } else {
+        reject();
+    }
+    })
+});
+
+// promise.
+//     then(function () {
+//         console.log('Success, The request succeeded');
+//     }).
+    // catch(funciton () {
+    //     console.log('Same error has occured');
+    // });

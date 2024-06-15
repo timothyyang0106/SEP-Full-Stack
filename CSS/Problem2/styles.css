@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #1c2738;
+    color: white;
+}
+.footer {
+    background-color: #444; /* dark gray */
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer section {
+    flex: 1;
+    min-width: 200px;
+    margin: 50px;
+}
+.footer h3 {
+    margin-top: 0;
+    font-weight: bold;
+    font-size: 1em;
+    color: white; /* white text */
+}
+.footer address {
+    font-style: normal;
+    font-size: 0.875em; /* slightly smaller */
+    color: #aaa; /* lighter gray */
+}
+.footer address span {
+    display: inline;
+}
+.footer ul {
+    padding: 0;
+    list-style: none;
+}
+.footer a {
+    color: white; /* white text */
+    text-decoration: none;
+    display: block;
+    padding: 5px 0;
+    font-size: 0.875em; /* slightly smaller */
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+.footer ul li {
+    border-bottom: 1px solid #666;
+    padding: 5px 0;
+}
+.footer ul li:last-child {
+    border-bottom: none;
+}
+.footer-bottom {
+    background-color: #000; /* black */
+    color: white;
+    text-align: center;
+    padding: 10px 100px; /* add padding to left and right */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.social-icons a {
+    margin: 0 10px;
+    color: white;
+}
+.social-icons a img {
+    vertical-align: middle;
+}

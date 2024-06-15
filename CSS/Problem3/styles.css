@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 100px;
+}
+
+.apply-now {
+    background-color: #2e3d55;
+    text-align: right; /* Align to the left */
+    padding: 10px 20px; /* Adjust padding to match the header */
+}
+
+.apply-now button {
+    background-color: #ff9900;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.apply-now button:hover {
+    background-color: #e68a00;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    text-align: left;
+    color: #2e3d55;
+}
+
+.news-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.news-item {
+    background-color: white;
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.news-content {
+    flex-grow: 1;
+}
+
+.news-item h2 {
+    font-size: 1.2em;
+    color: #2e3d55;
+}
+
+.news-item .date {
+    font-size: 0.9em;
+    color: #999;
+    text-align: right;
+}
+
+.news-item .author {
+    font-size: 0.9em;
+    color: #999;
+}
+
+.news-item img {
+    width: 100%;
+    height: 150px; /* fixed height for images */
+    object-fit: cover; /* ensure images fit within the given height and width */
+    margin: 10px 0;
+}
+
+.news-item hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 10px 0;
+}
+
+.news-item .tags {
+    font-size: 0.8em;
+    color: #999;
+    font-weight: bold;
+}
+
+.paging {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.paging ul {
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+}
+
+.paging ul li {
+    display: inline;
+    margin: 50 5px;
+}
+
+.paging ul li a {
+    color: #2e3d55;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #2e3d55;
+    border-radius: 4px;
+}
+
+.paging ul li a:hover, .paging ul li a:focus {
+    background-color: #2e3d55;
+    color: white;
+}

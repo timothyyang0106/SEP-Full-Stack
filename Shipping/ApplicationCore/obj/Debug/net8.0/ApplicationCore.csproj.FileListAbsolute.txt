@@ -1,0 +1,12 @@
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Shipping/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Shipping/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Shipping/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Shipping/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Shipping/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Shipping/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Shipping/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Shipping/ApplicationCore/obj/Debug/net8.0/ApplicationCore.sourcelink.json
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Shipping/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Shipping/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Shipping/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+/Users/timothyyang/Documents/GitHub/SEP-Full-Stack/Shipping/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll

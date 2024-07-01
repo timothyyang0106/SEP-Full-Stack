@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{37ED57E4-0F8B-4375-87FD-28C4C7ED0B2F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/MovieShop.API/Controllers/UserController.cs">
+    <Files>
+      <File FileName="src/MovieShop.API/Controllers/UserController.cs" Line="24" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieShop" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="MovieShop.API" expanded="True">
+                <Node name="Controllers" expanded="True" />
+              </Node>
+              <Node name="MovieShopMVC" expanded="True">
+                <Node name="Views" expanded="True">
+                  <Node name="Account" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.src.MovieShopMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

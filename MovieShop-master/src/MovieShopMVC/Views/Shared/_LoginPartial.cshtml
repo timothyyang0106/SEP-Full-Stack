@@ -1,0 +1,46 @@
+﻿@using ApplicationCore.Contracts.Services
+@inject ICurrentUserService UserService
+
+@if (UserService.IsAuthenticated)
+{
+    <div class="text-end">
+        <ul class="nav">
+
+            @if (UserService.IsAdmin || UserService.IsSuperAdmin)
+            {
+                <li class="nav-item dropdown text-capitalize">
+                    <a class="nav-link dropdown-toggle text-white" href="#" role="button" id="dropdownProfile" data-bs-toggle="dropdown" aria-expanded="false">
+                        Admin
+                    </a>
+
+                    <div class="dropdown-menu" aria-labelledby="dropdown01">
+                        <a class="dropdown-item" asp-controller="Admin" asp-action="CreateMovie">Create Movie</a>
+                    </div>
+                </li>
+            }
+
+            <li class="nav-item dropdown text-capitalize">
+                <a class="nav-link dropdown-toggle text-white" href="#" role="button" id="dropdownProfile" data-bs-toggle="dropdown" aria-expanded="false">
+                    @UserService.FullName
+                </a>
+
+
+                <div class="dropdown-menu" aria-labelledby="dropdown01">
+                    <a class="dropdown-item" asp-controller="User" asp-action="Purchases">Library</a>
+                    <a class="dropdown-item" asp-controller="Account" asp-action="Logout">Log Out</a>
+                    <a class="dropdown-item" asp-controller="Account" asp-action="Profile">View Profile</a>
+                    <a class="dropdown-item" asp-controller="Account" asp-action="EditProfile">Edit Profile</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+}
+
+else
+{
+    <div class="text-end">
+        <a class="btn btn-outline-light me-2" asp-controller="Account" asp-action="Login">Login</a>
+        <a class="btn btn-light" asp-controller="Account" asp-action="Register">Register</a>
+
+    </div>
+}

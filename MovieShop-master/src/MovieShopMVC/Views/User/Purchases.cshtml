@@ -1,0 +1,26 @@
+@model ApplicationCore.Models.ResponseModels.PurchaseResponseModel
+
+@{
+    ViewData["Title"] = "Library";
+}
+
+<div class="rounded">
+    <div class="container-fluid bg-light">
+        <h2>Total Movies Purchased: @Model.TotalMoviesPurchased</h2>
+        <div class="row">
+            @if (Model.PurchasedMovies != null && Model.PurchasedMovies.Any())
+            {
+                @foreach (var movie in Model.PurchasedMovies)
+                {
+                    <div class="col-6 col-lg-3 col-sm-4 col-xl-2">
+                        @await Html.PartialAsync("_MovieCard", movie)
+                    </div>
+                }
+            }
+            else
+            {
+                <p>No movies purchased.</p>
+            }
+        </div>
+    </div>
+</div>

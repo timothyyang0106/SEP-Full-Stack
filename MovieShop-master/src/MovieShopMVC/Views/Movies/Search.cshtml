@@ -1,0 +1,22 @@
+@model IEnumerable<ApplicationCore.Models.ResponseModels.MovieCardResponseModel>
+
+@{
+    ViewData["Title"] = "Search Results";
+}
+
+<h2>Search Results</h2>
+
+<div class="row">
+    @foreach (var movie in Model)
+    {
+        <div class="col-md-3 mb-3">
+            <div class="card">
+                <img class="card-img-top" src="@movie.PosterUrl" alt="@movie.Title" />
+                <div class="card-body">
+                    <h5 class="card-title">@movie.Title</h5>
+                    <a href="@Url.Action("Details", "Movies", new { id = movie.Id })" class="btn btn-primary">Details</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
